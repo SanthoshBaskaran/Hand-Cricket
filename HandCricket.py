@@ -15,7 +15,7 @@ while(toss!=None):
     time.sleep(2)
     if(toss1==1):
         print("you have won the toss")
-        print("Choose Batting or Bowling")
+        print("Choose Batting(1) or Bowling(2)")
         decision=int(input())
         if(decision>2):
             print("Invalid option")
