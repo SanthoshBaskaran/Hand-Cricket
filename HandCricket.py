@@ -2,7 +2,7 @@ import random
 import time
 whoBats="NONE";
 print("Welcome to Hand-cricket game!!")
-print("RULES ****IF ANY PLAYER ENTER GREATER THAN 7,BATSMAN WILL GET OUT****")
+print("RULES ****IF ANY PLAYER ENTER GREATER THAN 6,BATSMAN WILL GET OUT****")
 print("1.Heads 2.Tails")
 print("Choose Your option")
 toss=int(input())
